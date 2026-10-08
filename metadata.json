@@ -1,0 +1,10 @@
+{
+  "name": "Aria AI Companion",
+  "description": "A production-ready AI companion and dating coach web application featuring real-time conversations with streaming text and voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
